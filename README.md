@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sahanadg
-- 👀 I’m interested in Frontend development
+- 👀 
 - 🌱 I’m currently learning BE
 - 📫 How to reach me sahanadg2000@gmail.com
 
