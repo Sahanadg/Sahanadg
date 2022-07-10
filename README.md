@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Sahanadg
-- 👀 
 - 🌱 I’m currently learning BE
 - 📫 How to reach me sahanadg2000@gmail.com
 
